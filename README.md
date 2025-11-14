@@ -69,3 +69,10 @@ Techniques Used:
 Download or view the PDF in your browser.
 
 Review the combined report + printed notebook.
+
+## My Contributions
+This project was completed as part of a 3-person team for a course at the University of Washington. 
+My individual contributions included:
+- Building the machine learning pipeline in Python using Decision Trees  
+- Running feature selection with RFE and performing statistical analysis  
+- Creating data visualizations and preparing part of the final report  
